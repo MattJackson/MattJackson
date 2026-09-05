@@ -28,4 +28,4 @@ A full stack for booting macOS guests on non-Apple hosts.
 
 ---
 
-<sub>📫 dev2@getbusbar.com · 30+ public repos — browse them all below.</sub>
+<sub>📫 matthew@pq.io · 30+ public repos — browse them all below.</sub>
