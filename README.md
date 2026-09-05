@@ -4,8 +4,8 @@ Systems & infrastructure engineer — I write low-level software in **Rust, C/C+
 virtualization, storage, protocol implementations, and firmware tooling. I like making
 things run where they're not supposed to, and shipping single-binary tools that just work.
 
-🏢 I work on **[GetBusbar](https://github.com/GetBusbar)**, and contribute across a few orgs
-and open-source projects including **[FreeMKV](https://github.com/freemkv)** and
+🏢 I work on **[GetBusbar](https://github.com/GetBusbar/busbar)**, and contribute across a
+few orgs and open-source projects including **[FreeMKV](https://github.com/freemkv)** and
 **[tiberius-rs](https://github.com/tiberius-rs)**.
 
 ---
@@ -14,6 +14,7 @@ and open-source projects including **[FreeMKV](https://github.com/freemkv)** and
 - **[tiberius-ng](https://github.com/MattJackson/tiberius-ng)** — actively-maintained TDS 7.2–8.0 (Microsoft SQL Server) driver for Rust.
 - **[oauth-as](https://github.com/MattJackson/oauth-as)** — embeddable OAuth 2.1 Authorization Server library, incl. the RFC 8628 device grant.
 - **[lsi-flash](https://github.com/MattJackson/lsi-flash)** — single-binary Linux CLI for cross-flashing LSI SAS2008 HBAs (Dell H200/H310, IBM M1015) between IT/IR firmware.
+- **[firmware-extractor](https://github.com/MattJackson/firmware-extractor)** — any firmware download → one raw firmware `.bin` + JSON label; signature-based, deterministic, offline.
 - **[claude-usage](https://github.com/MattJackson/claude-usage)** — juggle multiple Claude Max accounts, see usage, and auto-swap before you hit the wall.
 
 #### 🏗️ Infrastructure & homelab
@@ -26,6 +27,10 @@ A full stack for booting macOS guests on non-Apple hosts.
 - **[mos-docker](https://github.com/MattJackson/mos-docker)** — macOS in Docker: QEMU + OpenCore, built from source, zero third-party runtime deps.
 - **[mos-qemu](https://github.com/MattJackson/mos-qemu)** · **[mos-opencore](https://github.com/MattJackson/mos-opencore)** · **[mos-patcher](https://github.com/MattJackson/mos-patcher)** — QEMU/OpenCore patches and a Lilu-style kernel-hook framework for macOS 15 VMs.
 
+#### 🔧 Supporting
+- **[lsi-flash-firmware](https://github.com/MattJackson/lsi-flash-firmware)** — community mirror of LSI SAS2008 firmware for `lsi-flash`.
+- **[homebrew-tap](https://github.com/MattJackson/homebrew-tap)** — Homebrew tap for my tools (`brew install MattJackson/tap/...`).
+
 ---
 
-<sub>📫 matthew@pq.io · 30+ public repos — browse them all below.</sub>
+<sub>📫 matthew@pq.io</sub>
