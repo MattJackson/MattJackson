@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/MattJackson)
+
 ### Hi, I'm Matthew 👋
 
 Systems & infrastructure engineer — I write low-level software in **Rust, C/C++, and Go**:
