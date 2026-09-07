@@ -17,7 +17,7 @@ few orgs and open-source projects including **[FreeMKV](https://github.com/freem
 - **[oauth-as](https://github.com/MattJackson/oauth-as)** — embeddable OAuth 2.1 Authorization Server library, incl. the RFC 8628 device grant.
 - **[lsi-flash](https://github.com/MattJackson/lsi-flash)** — single-binary Linux CLI for cross-flashing LSI SAS2008 HBAs (Dell H200/H310, IBM M1015) between IT/IR firmware.
 - **[firmware-extractor](https://github.com/MattJackson/firmware-extractor)** — any firmware download → one raw firmware `.bin` + JSON label; signature-based, deterministic, offline.
-- **[claude-usage](https://github.com/MattJackson/claude-usage)** — juggle multiple Claude Max accounts, see usage, and auto-swap before you hit the wall.
+- **[usagio](https://github.com/MattJackson/usagio)** — juggle multiple Claude/Codex logins, see usage across every AI coding CLI, auto-swap before you hit the wall. macOS menu bar.
 
 #### 🏗️ Infrastructure & homelab
 - **[basement](https://github.com/MattJackson/basement)** — multi-backend storage control plane + S3 gateway.
