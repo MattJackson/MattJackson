@@ -13,24 +13,33 @@ few orgs and open-source projects including **[FreeMKV](https://github.com/freem
 ---
 
 #### 🦀 Rust systems & protocol code
+
 - **[tiberius-ng](https://github.com/MattJackson/tiberius-ng)** — actively-maintained TDS 7.2–8.0 (Microsoft SQL Server) driver for Rust.
 - **[oauth-as](https://github.com/MattJackson/oauth-as)** — embeddable OAuth 2.1 Authorization Server library, incl. the RFC 8628 device grant.
 - **[lsi-flash](https://github.com/MattJackson/lsi-flash)** — single-binary Linux CLI for cross-flashing LSI SAS2008 HBAs (Dell H200/H310, IBM M1015) between IT/IR firmware.
+- **[pioneer-optical](https://github.com/MattJackson/pioneer-optical)** — Rust library for Pioneer BD/DVD drive commands, firmware analysis and receiver-bound updates over a caller-owned SCSI transport; `no_std` core.
+- **[mediatek-optical](https://github.com/MattJackson/mediatek-optical)** — sister Rust library for MediaTek MT1959/MT1939 BD/DVD drives, with firmware integrity checks, OEM reconstruction and receiver-bound updates; `no_std` core.
+- **[h8-asm](https://github.com/MattJackson/h8-asm)** — safe Rust decoder, encoder, relocator and transactional patching tools for the Renesas H8 family.
 - **[thumb-asm](https://github.com/MattJackson/thumb-asm)** — ARM Thumb/Thumb-2 decoder, disassembler, assembler and detour installer in pure safe Rust; decodes and re-encodes the instruction set against Arm's own architecture reference manuals, relocates instructions, and installs trampolines over live code in a firmware image. Zero dependencies, `forbid(unsafe_code)`.
 - **[usagio](https://github.com/MattJackson/usagio)** — juggle multiple Claude/Codex logins, see usage across every AI coding CLI, auto-swap before you hit the wall. macOS menu bar.
 - **[muri](https://github.com/MattJackson/muri)** — a themeable, custom-drawn menu + tray crate for Rust (a drop-in alternative to muda/tray-icon). One consistent look on every OS, with true flush-right alignment and embedded logos. macOS usable today; Windows/Linux in progress.
 
 #### 🏗️ Infrastructure & homelab
+
 - **[basement](https://github.com/MattJackson/basement)** — multi-backend storage control plane + S3 gateway.
 - **[host-agent](https://github.com/MattJackson/host-agent)** — adaptive Dell PowerEdge fan controller + Prometheus exporters + vmagent in one drop-in container.
 
+- **[uploader](https://github.com/MattJackson/uploader)** — self-hosted drop box with resumable uploads of any size; private file management and sharing.
+
 #### 🖥️ Running macOS where it isn't supposed to run
 A full stack for booting macOS guests on non-Apple hosts.
+
 - **[libapplegfx-vulkan](https://github.com/MattJackson/libapplegfx-vulkan)** — Linux implementation of Apple's ParavirtualizedGraphics framework, accelerated via Vulkan/lavapipe.
 - **[mos-docker](https://github.com/MattJackson/mos-docker)** — macOS in Docker: QEMU + OpenCore, built from source, zero third-party runtime deps.
 - **[mos-qemu](https://github.com/MattJackson/mos-qemu)** · **[mos-opencore](https://github.com/MattJackson/mos-opencore)** · **[mos-patcher](https://github.com/MattJackson/mos-patcher)** — QEMU/OpenCore patches and a Lilu-style kernel-hook framework for macOS 15 VMs.
 
 #### 🔧 Supporting
+
 - **[lsi-flash-firmware](https://github.com/MattJackson/lsi-flash-firmware)** — community mirror of LSI SAS2008 firmware for `lsi-flash`.
 - **[homebrew-tap](https://github.com/MattJackson/homebrew-tap)** — Homebrew tap for my tools (`brew install MattJackson/tap/...`).
 
