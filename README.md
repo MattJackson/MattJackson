@@ -21,6 +21,7 @@ few orgs and open-source projects including **[FreeMKV](https://github.com/freem
 - **[mediatek-optical](https://github.com/MattJackson/mediatek-optical)** — sister Rust library for MediaTek MT1959/MT1939 BD/DVD drives, with firmware integrity checks, OEM reconstruction and receiver-bound updates; `no_std` core.
 - **[h8-asm](https://github.com/MattJackson/h8-asm)** — safe Rust decoder, encoder, relocator and transactional patching tools for the Renesas H8 family.
 - **[thumb-asm](https://github.com/MattJackson/thumb-asm)** — ARM Thumb/Thumb-2 decoder, disassembler, assembler and detour installer in pure safe Rust; decodes and re-encodes the instruction set against Arm's own architecture reference manuals, relocates instructions, and installs trampolines over live code in a firmware image. Zero dependencies, `forbid(unsafe_code)`.
+- **[agui-sdk](https://github.com/MattJackson/agui-sdk)** — AG-UI 1.0 protocol SDK for Rust, conformant client and server over SSE and protobuf.
 - **[usagio](https://github.com/MattJackson/usagio)** — juggle multiple Claude/Codex logins, see usage across every AI coding CLI, auto-swap before you hit the wall. macOS menu bar.
 - **[muri](https://github.com/MattJackson/muri)** — a themeable, custom-drawn menu + tray crate for Rust (a drop-in alternative to muda/tray-icon). One consistent look on every OS, with true flush-right alignment and embedded logos. macOS usable today; Windows/Linux in progress.
 
